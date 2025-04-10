@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "131231156638",
+    "firebase_url": "https://appparkingcloud-default-rtdb.firebaseio.com",
+    "project_id": "appparkingcloud",
+    "storage_bucket": "appparkingcloud.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131231156638:android:da445261f3e5b36953ee8f",
+        "android_client_info": {
+          "package_name": "com.parkcloud.app.parkcloud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131231156638-u8ilu0op6vvof2akltfh7s4fi0v09btq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgs4A-yyshel_yXZDLjA7yTWEbHQhkkm4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131231156638-u8ilu0op6vvof2akltfh7s4fi0v09btq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131231156638:android:f2c01956a0c8746353ee8f",
+        "android_client_info": {
+          "package_name": "com.parkingcloud.parkcloud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131231156638-j2jq65gnihaml4d4spn2t4d2u3rb63p2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.parkingcloud.parkcloud",
+            "certificate_hash": "a6c9ddf5eb240fc0ecd64026b3d895a9f7869050"
+          }
+        },
+        {
+          "client_id": "131231156638-u8ilu0op6vvof2akltfh7s4fi0v09btq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgs4A-yyshel_yXZDLjA7yTWEbHQhkkm4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131231156638-u8ilu0op6vvof2akltfh7s4fi0v09btq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
