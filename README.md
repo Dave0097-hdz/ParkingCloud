@@ -10,9 +10,7 @@ A continuación se muestran algunas imágenes de cómo luce la aplicación en el
 
 | Pantalla principal | Vista de mapa con espacios |
 |--------------------|----------------------------|
-| ![screenshot1](screenshots/screen1.png) | ![screenshot2](screenshots/screen2.png) |
-
-> 📌 **Nota:** Guarda tus capturas en una carpeta llamada `screenshots/` dentro del proyecto y nómbralas como `screen1.png`, `screen2.png`, etc., o cambia los nombres aquí según corresponda.
+| ![screenshot1](captura_emulador/Inicio.png) | ![screenshot2](captura_emulador/Parking Slots.png) |
 
 ---
 
