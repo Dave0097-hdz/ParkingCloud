@@ -6,23 +6,21 @@
 
 ## 📱 Capturas de pantalla
 
-### Pantalla principal  
-<img src="assets/capturas_emulador/Inicio.png" alt="Pantalla Principal" width="250"/>
+<div align="center">
 
-### Inicio de Sesión  
-<img src="assets/capturas_emulador/Log_In.png" alt="Inicio de Sesion" width="250"/>
+### Pantalla principal &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Inicio de Sesión  
+<img src="assets/capturas_emulador/Inicio.png" alt="Pantalla Principal" width="200"/>  
+<img src="assets/capturas_emulador/Log_In.png" alt="Inicio de Sesion" width="200"/>
 
-### Ubicación del Estacionamiento  
-<img src="assets/capturas_emulador/Maps_google.png" alt="Ubicacion del Estacionamiento" width="250"/>
+### Ubicación del Estacionamiento &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vista de mapa con espacios  
+<img src="assets/capturas_emulador/Maps_google.png" alt="Ubicacion" width="200"/>  
+<img src="assets/capturas_emulador/Parking_Slots.png" alt="Mapa con espacios" width="200"/>
 
-### Vista de mapa con espacios  
-<img src="assets/capturas_emulador/Parking_Slots.png" alt="Vista de mapa" width="250"/>
+### Reserva de Espacio &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Perfil del Usuario  
+<img src="assets/capturas_emulador/Book_Slot.png" alt="Reserva" width="200"/>  
+<img src="assets/capturas_emulador/User_Profile.png" alt="Perfil" width="200"/>
 
-### Reserva de Espacio  
-<img src="assets/capturas_emulador/Book_Slot.png" alt="Reserva de espacio" width="250"/>
-
-### Perfil del usuario  
-<img src="assets/capturas_emulador/User_Profile.png" alt="Perfil del usuario" width="250"/>
+</div>
 
 ---
 
@@ -73,4 +71,5 @@ Este proyecto aún está en evolución. Se están integrando funcionalidades com
 ## 📄 Licencia
 
 Este proyecto es de uso educativo y personal. Puedes utilizarlo como base para tus propios desarrollos respetando la autoría original.
+
 
