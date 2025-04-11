@@ -8,9 +8,9 @@
 
 A continuación se muestran algunas imágenes de cómo luce la aplicación en el emulador:
 
-| Pantalla principal | Vista de mapa con espacios |
+| Pantalla principal | Inicio de Sesion || Ubicacion del Estacionamiento | Vista de mapa con espacios || Reserva de Espacio | Perfil del usuario |
 |--------------------|----------------------------|
-| ![screenshot1](assets/capturas_emulador/Inicio.png) | ![screenshot2](assets/capturas_emulador/Parking Slots.png) |
+| ![screenshot1](assets/capturas_emulador/Inicio.png) | ![screenshot2](assets/capturas_emulador/Log_In.png) || ![screenshot3](assets/capturas_emulador/Maps_google.png) || ![screenshot4](assets/capturas_emulador/Parking_Slots.png) || ![screenshot5](assets/capturas_emulador/Book_Slot.png) || ![screenshot6](assets/capturas_emulador/Book_Slot.png) || ![screenshot7](assets/capturas_emulador/User_Profile.png) |
 
 ---
 
