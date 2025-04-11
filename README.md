@@ -6,11 +6,23 @@
 
 ## 📱 Capturas de pantalla
 
-A continuación se muestran algunas imágenes de cómo luce la aplicación en el emulador:
+### Pantalla principal  
+<img src="assets/capturas_emulador/Inicio.png" alt="Pantalla Principal" width="250"/>
 
-| Pantalla principal | Inicio de Sesion || Ubicacion del Estacionamiento | Vista de mapa con espacios || Reserva de Espacio | Perfil del usuario |
-|--------------------|----------------------------|
-| ![screenshot1](assets/capturas_emulador/Inicio.png) | ![screenshot2](assets/capturas_emulador/Log_In.png) || ![screenshot3](assets/capturas_emulador/Maps_google.png) || ![screenshot4](assets/capturas_emulador/Parking_Slots.png) || ![screenshot5](assets/capturas_emulador/Book_Slot.png) || ![screenshot6](assets/capturas_emulador/Book_Slot.png) || ![screenshot7](assets/capturas_emulador/User_Profile.png) |
+### Inicio de Sesión  
+<img src="assets/capturas_emulador/Log_In.png" alt="Inicio de Sesion" width="250"/>
+
+### Ubicación del Estacionamiento  
+<img src="assets/capturas_emulador/Maps_google.png" alt="Ubicacion del Estacionamiento" width="250"/>
+
+### Vista de mapa con espacios  
+<img src="assets/capturas_emulador/Parking_Slots.png" alt="Vista de mapa" width="250"/>
+
+### Reserva de Espacio  
+<img src="assets/capturas_emulador/Book_Slot.png" alt="Reserva de espacio" width="250"/>
+
+### Perfil del usuario  
+<img src="assets/capturas_emulador/User_Profile.png" alt="Perfil del usuario" width="250"/>
 
 ---
 
@@ -61,3 +73,4 @@ Este proyecto aún está en evolución. Se están integrando funcionalidades com
 ## 📄 Licencia
 
 Este proyecto es de uso educativo y personal. Puedes utilizarlo como base para tus propios desarrollos respetando la autoría original.
+
