@@ -10,7 +10,7 @@ A continuación se muestran algunas imágenes de cómo luce la aplicación en el
 
 | Pantalla principal | Vista de mapa con espacios |
 |--------------------|----------------------------|
-| ![screenshot1](assets/capturas_emulador/Inicio.png) | ![screenshot2](assets/capturas_emulador/Parking_Slots.png) |
+| ![screenshot1](assets/capturas_emulador/Inicio.png) | ![screenshot2](assets/capturas_emulador/Parking Slots.png) |
 
 ---
 
