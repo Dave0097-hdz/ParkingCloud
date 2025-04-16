@@ -1,6 +1,6 @@
 # 🚗 ParkCloud
 
-<div align="center">
+<div align="justify">
 
 **ParkCloud** es una aplicación móvil desarrollada en Flutter cuyo propósito es mejorar la experiencia de los usuarios al buscar un lugar para estacionarse.  
 La app permite visualizar en tiempo real el tiempo restante de ocupación de cada espacio, lo que reduce significativamente el tiempo de espera en los estacionamientos.
